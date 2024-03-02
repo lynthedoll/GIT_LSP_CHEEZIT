@@ -73,7 +73,7 @@ public class Driver {
 		
 		// test clear
 		set1.clear();
-		System.out.println("After clearing Set1: " set1.toString() + " (Should be empty)");	
+		System.out.println("After clearing Set1: " + set1.toString() + " (Should be empty)");	
 		
 		}
 		
